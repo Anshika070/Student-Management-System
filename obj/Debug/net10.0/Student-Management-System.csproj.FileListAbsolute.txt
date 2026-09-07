@@ -1,0 +1,15 @@
+/workspaces/Student-Management-System/bin/Debug/net10.0/Student-Management-System
+/workspaces/Student-Management-System/bin/Debug/net10.0/Student-Management-System.deps.json
+/workspaces/Student-Management-System/bin/Debug/net10.0/Student-Management-System.runtimeconfig.json
+/workspaces/Student-Management-System/bin/Debug/net10.0/Student-Management-System.dll
+/workspaces/Student-Management-System/bin/Debug/net10.0/Student-Management-System.pdb
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.AssemblyInfoInputs.cache
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.AssemblyInfo.cs
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.csproj.CoreCompileInputs.cache
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.sourcelink.json
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.dll
+/workspaces/Student-Management-System/obj/Debug/net10.0/refint/Student-Management-System.dll
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.pdb
+/workspaces/Student-Management-System/obj/Debug/net10.0/Student-Management-System.genruntimeconfig.cache
+/workspaces/Student-Management-System/obj/Debug/net10.0/ref/Student-Management-System.dll

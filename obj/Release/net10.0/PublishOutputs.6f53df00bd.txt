@@ -1,0 +1,5 @@
+/workspaces/Student-Management-System/bin/Release/net10.0/publish/Student-Management-System
+/workspaces/Student-Management-System/bin/Release/net10.0/publish/Student-Management-System.dll
+/workspaces/Student-Management-System/bin/Release/net10.0/publish/Student-Management-System.deps.json
+/workspaces/Student-Management-System/bin/Release/net10.0/publish/Student-Management-System.runtimeconfig.json
+/workspaces/Student-Management-System/bin/Release/net10.0/publish/Student-Management-System.pdb
